@@ -1,0 +1,35 @@
+﻿@model ShoppingCartViewModel
+
+<h2>Ваша Корзина товаров</h2>
+<h4>Вот те самые "классные" роботы, которых вы выбрали =)</h4>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Количество</th>
+            <th>Робот</th>
+            <th class="text-right">Цена</th>
+            <th class="text-right">Итого</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.ShoppingCart.ShoppingCartItems)
+        {
+            <tr>
+                <td class="text-center">@line.Amount</td>
+                <td class="text-left">@line.Robot.Name</td>
+                <td class="text-right">@line.Robot.Price</td>
+                <td class="text-right">
+                    @(line.Amount * line.Robot.Price)
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="3" class="text-right">Total:</td>
+            <td class="text-right">
+                @Model.ShoppingCartTotal
+            </td>
+        </tr>
+    </tfoot>
+</table>

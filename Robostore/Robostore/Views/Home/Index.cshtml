@@ -1,0 +1,16 @@
+﻿@model HomeViewModel
+
+
+@await Html.PartialAsync("Carousel")
+
+<h2>Робот недели</h2>
+<h4>Лучший выбор на этой неделе</h4>
+
+<div class="row">
+
+    @foreach (var robot in Model.RobotsOfTheWeek)
+    { 
+        @Html.Partial("RobotOfTheWeekSummary", robot)
+    }
+
+</div>

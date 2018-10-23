@@ -1,0 +1,10 @@
+﻿@model RobotsListViewModel
+
+
+	<h1 align="center">Лаборатория Кибернетики И-110</h1>
+     @foreach (var robot in Model.Robots) 
+		{
+		    @Html.Partial("RobotOverviewSummary", robot)
+		
+		}
+

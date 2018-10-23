@@ -1,0 +1,22 @@
+C:\Users\koleynikov\source\repos\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.csproj.CoreCompileInputs.cache
+C:\Users\koleynikov\source\repos\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.AssemblyInfoInputs.cache
+C:\Users\koleynikov\source\repos\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.AssemblyInfo.cs
+C:\Users\koleynikov\source\repos\Robostore\Robostore\bin\Debug\netcoreapp2.0\Robostore.deps.json
+C:\Users\koleynikov\source\repos\Robostore\Robostore\bin\Debug\netcoreapp2.0\Robostore.runtimeconfig.json
+C:\Users\koleynikov\source\repos\Robostore\Robostore\bin\Debug\netcoreapp2.0\Robostore.runtimeconfig.dev.json
+C:\Users\koleynikov\source\repos\Robostore\Robostore\bin\Debug\netcoreapp2.0\Robostore.dll
+C:\Users\koleynikov\source\repos\Robostore\Robostore\bin\Debug\netcoreapp2.0\Robostore.pdb
+C:\Users\koleynikov\source\repos\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.dll
+C:\Users\koleynikov\source\repos\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.pdb
+C:\Users\koleynikov\source\repos\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.csprojResolveAssemblyReference.cache
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\bin\Debug\netcoreapp2.0\Robostore.deps.json
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\bin\Debug\netcoreapp2.0\Robostore.runtimeconfig.json
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\bin\Debug\netcoreapp2.0\Robostore.runtimeconfig.dev.json
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\bin\Debug\netcoreapp2.0\Robostore.dll
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\bin\Debug\netcoreapp2.0\Robostore.pdb
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.csprojResolveAssemblyReference.cache
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.csproj.CoreCompileInputs.cache
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.AssemblyInfoInputs.cache
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.AssemblyInfo.cs
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.dll
+E:\По кафедре\Проекты_Инженерная деятельность\Проект ВИД АСП\Robostore\Robostore\obj\Debug\netcoreapp2.0\Robostore.pdb
